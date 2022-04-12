@@ -1,15 +1,8 @@
-## Welcome to the portfolio of Claudius Ibine
+### Welcome to the portfolio of Claudius Ibine
 
 You can use the [editor on GitHub](https://github.com/ibinec/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
-
-### Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
 
 ### [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
